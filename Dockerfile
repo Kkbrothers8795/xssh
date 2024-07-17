@@ -1,4 +1,4 @@
-FROM scratch
+FROM ubuntu
 ARG AUTH_TOKEN=2jMtT8iPA3wJvCCFiuuc3lFNnEg_51MgegPoTJixrmJMzaNBn
 ARG PASSWORD=kkraju00
 
